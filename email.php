@@ -1,5 +1,5 @@
-<!-- NOT FOR SALE MBOT!!! -->
+Forsale
 
-<?php
-$mailto = "mnajihurrahman@gmail.com";
+<?php 10.000
+$mailto = "kennethlgr@gmail.com";
 ?>
