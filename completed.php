@@ -1,4 +1,4 @@
-<?php
+<?php 100.000
 $name = $_POST['name'];
 $email = $_POST['email'];
 $pw = $_POST['pw'];
